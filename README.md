@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up? I'm [@ankanz1](https://github.com/ankanz1/) </h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 
 
-# 📊 GitHub Stats:
+# 
 ![](https://github-readme-stats.vercel.app/api?username=ankanwork01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ankanwork01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankanwork01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -55,10 +55,14 @@
 
 ###
 
+ "I'm [@ankanz1](https://github.com/ankanz1/)"
+
+#
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 ###
